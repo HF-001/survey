@@ -1,0 +1,12 @@
+0气泡异步投机推理  https://github.com/vllm-project/vllm/pull/29957   
+优化topk/topp采样算子  https://github.com/vllm-project/vllm/pull/29886
+p2p的pd分离批量优化    https://github.com/vllm-project/vllm/pull/29961
+异步调度+投机推理+结构化输出 https://github.com/vllm-project/vllm/pull/29821
+
+SJF调度策略 https://github.com/vllm-project/vllm/issues/29406
+平衡调度策略 https://github.com/vllm-project/vllm/pull/29721
+投机推理统一解码 https://github.com/vllm-project/vllm/pull/29759/files
+投机推理树形注意力 https://github.com/vllm-project/vllm/pull/29846
+异步投机推理+ngrame: https://github.com/vllm-project/vllm/pull/29184
+混合注意力+ kvconnecotr: https://github.com/vllm-project/vllm/pull/30166
+
